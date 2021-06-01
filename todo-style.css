@@ -87,7 +87,7 @@ li:nth-child(odd){
     float: right;
 }
 .close:hover{
-    color: black;
+    color: white;
     font-weight: bold;
 }
   
